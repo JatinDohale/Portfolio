@@ -1,0 +1,74 @@
+[
+  {
+    "name": "HTML",
+    "category": "frontend",
+    "proficiency": 90,
+    "icon": "html5"
+  },
+  {
+    "name": "CSS",
+    "category": "frontend",
+    "proficiency": 85,
+    "icon": "css3"
+  },
+  {
+    "name": "JavaScript",
+    "category": "frontend",
+    "proficiency": 80,
+    "icon": "javascript"
+  },
+  {
+    "name": "ReactJS",
+    "category": "frontend",
+    "proficiency": 75,
+    "icon": "react"
+  },
+  {
+    "name": "Tailwind CSS",
+    "category": "frontend",
+    "proficiency": 85,
+    "icon": "tailwindcss"
+  },
+  {
+    "name": "Node.js",
+    "category": "backend",
+    "proficiency": 80,
+    "icon": "nodejs"
+  },
+  {
+    "name": "Express.js",
+    "category": "backend",
+    "proficiency": 75,
+    "icon": "express"
+  },
+  {
+    "name": "Java",
+    "category": "backend",
+    "proficiency": 70,
+    "icon": "java"
+  },
+  {
+    "name": "MongoDB",
+    "category": "database",
+    "proficiency": 75,
+    "icon": "mongodb"
+  },
+  {
+    "name": "MySQL",
+    "category": "database",
+    "proficiency": 70,
+    "icon": "mysql"
+  },
+  {
+    "name": "Git & GitHub",
+    "category": "tools",
+    "proficiency": 85,
+    "icon": "git"
+  },
+  {
+    "name": "VS Code",
+    "category": "tools",
+    "proficiency": 90,
+    "icon": "vscode"
+  }
+]

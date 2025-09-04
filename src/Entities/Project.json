@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Plant Leaf Disease Detection using Faster R-CNN and SSD Model",
+    "description": "A hybrid deep learning model combining Faster R-CNN and SSD for accurate detection and classification of plant leaf diseases. Built with PyTorch and trained on the PlantVillage and PlantDoc datasets for robust performance.",
+    "category": "backend",
+    "tech_stack": [
+      "Python",
+      "PyTorch",
+      "Faster R-CNN",
+      "SSD",
+      "Google Colab"
+    ],
+    "image": "/project_images/plant.png"
+  },
+{
+  "id": 2,
+  "title": "Artistly — Book Artists for Events",
+  "description": "A modern web platform that connects event planners with talented artists—singers, DJs, dancers, and speakers—making it easy to browse by category and contact performers for booking.",
+  "category": "frontend",
+  "tech_stack": ["React", "TailwindCSS", "Vercel"],
+  "image": "/project_images/Artistfly.png",
+  "github": "https://github.com/JatinDohale/Artistly",
+  "demo": "https://artistly-three-sigma.vercel.app"
+},
+{
+  "id": 3,
+  "title": "RecipeHolder",
+  "description": "A user-friendly web app designed to help you discover and save a variety of recipes daily.",
+  "category": "frontend",
+  "tech_stack": ["React", "TailwindCSS", "Vercel"],
+  "image": "/project_images/recipeHolder.png",
+  "github": "https://github.com/JatinDohale/recipeholder",
+  "demo": "https://recipeholder-ryn2.vercel.app"
+}
+
+]
