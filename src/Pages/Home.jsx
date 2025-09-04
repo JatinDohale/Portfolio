@@ -36,7 +36,7 @@ export default function HomePage() {
                                     Get In Touch
                                 </Button>
                             </Link>
-                            <a href="src\assets\Jatin_Dohale_Resume.pdf"
+                            <a href="\Jatin_Dohale_Resume.pdf"
                                 download="Jatin_Dohale_Resume.pdf">
                                 <Button variant="outline" className="border-white/30 text-white hover:bg-white/10 px-8 py-3 rounded-xl">
                                     <Download className="w-5 h-5 mr-2" />

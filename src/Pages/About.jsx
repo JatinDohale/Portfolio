@@ -33,7 +33,7 @@ export default function AboutPage() {
                         <div className="w-32 h-32 mx-auto mb-8 relative">
                             <div className="absolute inset-0 bg-gradient-to-r from-purple-400 to-pink-400 rounded-full animate-pulse"></div>
                             <img
-                                src="src\assets\myphoto.jpg"
+                                src="\myphoto.jpg"
                                 alt="Profile"
                                 className="w-full h-full rounded-full object-cover border-4 border-white/20 relative z-10"
                             />
@@ -73,7 +73,7 @@ export default function AboutPage() {
                     <div className="bg-gradient-to-r from-purple-600/20 to-pink-600/20 backdrop-blur-sm rounded-2xl p-8 border border-white/20 text-center">
                         <h3 className="text-2xl font-bold text-white mb-4">Want to Know More?</h3>
                         <p className="text-white/70 mb-6">Download my resume to see my complete background and qualifications.</p>
-                        <a href="src\assets\Jatin_Dohale_Resume.pdf"
+                        <a href="\Jatin_Dohale_Resume.pdf"
                         download="Jatin_Dohale_Resume.pdf">
                             <Button className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white px-8 py-3 rounded-xl">
                                 <Download className="w-5 h-5 mr-2" />
